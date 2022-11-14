@@ -1,0 +1,5 @@
+Tem que fazer aquela parada lá de deixar 1 antes
+tox -e test_package
+tox -e train
+
+melhor formato pro config é o config.yml
